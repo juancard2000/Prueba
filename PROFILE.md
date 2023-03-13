@@ -1,0 +1,1 @@
+Welcome to my GitHub profile! I'm an agricultural engineering student interest in precision agriculture (PA), digital agriculture (DA) and programming in Python lenguage for multiple agricultural applications.
